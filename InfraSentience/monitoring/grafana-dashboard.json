@@ -1,0 +1,1 @@
+{ "dashboard": { "title": "InfraSentience Monitoring", "panels": [{ "type": "graph", "title": "Latency", "targets": [{ "expr": "infra_latency_seconds" }] }] } }
