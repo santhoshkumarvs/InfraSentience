@@ -1,3 +1,17 @@
+📦 Project 1: InfraSentience
+🎯 Purpose
+InfraSentience simulates a modern MLOps inference pipeline powered by:
+
+FastAPI for inference serving
+
+Triton Inference Server (simulated)
+
+Prometheus + Grafana for monitoring
+
+GitHub Actions for CI/CD automation
+
+This project is geared towards infrastructure-level simulation of scalable, production-grade ML deployments.
+
 InfraSentience/
 │
 ├── src/
