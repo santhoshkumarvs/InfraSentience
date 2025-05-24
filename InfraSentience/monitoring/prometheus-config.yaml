@@ -1,1 +1,0 @@
-global:\n  scrape_interval: 15s\nscrape_configs:\n  - job_name: 'infra_app'\n    static_configs:\n      - targets: ['app:8000']
