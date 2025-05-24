@@ -1,4 +1,1 @@
-# LLMOps Metrics
-- Token throughput
-- Prompt latency
-- Model saturation
+# LLMOps Metrics\n- Token throughput\n- Prompt latency\n- Model saturation
